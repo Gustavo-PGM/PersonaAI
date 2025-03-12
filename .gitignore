@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+venv/
+.env/
+.venv/
+
+# Banco de dados
+*.db
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Dependências e arquivos de configuração
+.env
